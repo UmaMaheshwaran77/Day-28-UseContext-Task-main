@@ -1,0 +1,52 @@
+
+.nav-item{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+}
+
+
+
+.cart{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+}
+
+
+.product-head{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 25px;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+}
+
+.cart-page{
+    background-color: oldlace;
+}
+
+.cart-container{
+  background-color: wheat;
+}
+
+
+.cart-title{
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 6px;
+}
+
+
+
+.cart-item{
+  background-color: white;
+}
+
+
+
+.product-conatiner{
+  background-color: ivory;
+}
+
+/* .product-row{
+  background-color: white;
+} */
+
+
